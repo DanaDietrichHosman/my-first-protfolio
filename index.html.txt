@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Dana Dietrich - Portfolio</title>
+</head>
+<body style="font-family: Arial; text-align: center; background-color: #f0f0f0;">
+    <h1>Hello, I’m Dana Dietrich 👋</h1>
+    <p>I’m a first-year Computer Science student, learning to code and build projects.</p>
+    <p>Skills: JavaScript, Data Structures, Git & GitHub</p>
+    <hr>
+    <p>Check out my future projects here!</p>
+</body>
+</html>
